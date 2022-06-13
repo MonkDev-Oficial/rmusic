@@ -1,2 +1,2 @@
-# rmusic
-Music for Students &lt;3
+#  RMUSCI
+Proyecto especialmente para estudiantes y programadores.
